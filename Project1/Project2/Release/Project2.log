@@ -1,0 +1,7 @@
+﻿  2.1.cpp
+..\Project1\2.1.cpp(49): warning C4018: “<”: 有符号/无符号不匹配
+..\Project1\2.1.cpp(69): warning C4018: “<”: 有符号/无符号不匹配
+..\Project1\2.1.cpp(70): warning C4018: “<”: 有符号/无符号不匹配
+..\Project1\2.1.cpp(104): warning C4018: “<”: 有符号/无符号不匹配
+..\Project1\2.1.cpp(127): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+..\Project1\2.1.cpp(144): error C2100: 非法的间接寻址

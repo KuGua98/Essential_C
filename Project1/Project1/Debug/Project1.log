@@ -1,0 +1,6 @@
+﻿  1.5.cpp
+c:\users\1\desktop\pzx\c++\exercise\project1\project1\1.5.cpp(87): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\1\desktop\pzx\c++\exercise\project1\project1\1.5.cpp(241): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\1\desktop\pzx\c++\exercise\project1\project1\1.5.cpp(248): warning C4018: “<”: 有符号/无符号不匹配
+  Project1.vcxproj -> C:\Users\1\Desktop\pzx\C++\exercise\Project1\Debug\Project1.exe
+  Project1.vcxproj -> C:\Users\1\Desktop\pzx\C++\exercise\Project1\Debug\Project1.pdb (Full PDB)

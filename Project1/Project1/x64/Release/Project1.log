@@ -1,0 +1,4 @@
+﻿  1.5.cpp
+1.5.cpp(93): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+1.5.cpp(208): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+LINK : fatal error LNK1181: 无法打开输入文件“opencv_world341d.lib”
